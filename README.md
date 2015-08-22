@@ -1,2 +1,2 @@
 # MongoTutorial
-The MOOC for MongoDB Univeristy
+The MOOC from  MongoDB Univeristy, https://university.mongodb.com/courses/MongoDB
